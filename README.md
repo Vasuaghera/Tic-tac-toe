@@ -30,7 +30,7 @@ A modern, animated Tic-Tac-Toe game built with React and Tailwind CSS. Features 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Vasuaghera/Tic-tac-toe.git
 cd tic-tac-toe
 ```
 
